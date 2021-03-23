@@ -1,2 +1,3 @@
 hi this file is used to show git conflict
 modified second line
+modified third line
